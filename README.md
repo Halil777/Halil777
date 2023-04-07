@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Shageldi Alyyew 👋</h1>
+<h1 align="center">Hi , I'm Halil Gayypov 👋</h1>
 
 
 ## :sassy_man:  About me
