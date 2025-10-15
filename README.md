@@ -1,76 +1,61 @@
-<h1 align="center">Hi , I'm Halil Gayypov 👋</h1>
+Hi, I'm Halil Gayypov 👋
 
-
-## :sassy_man:  About me
-- :school: I am a `Middle` at GeekSpace Turkmenistan
-<!-- - :trophy: Winner of `Sanly-Cozgut-2021, Sanly-Cozgut-2022` -->
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a  web  developer
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`
-
-<br>
-
-## Connect with me
-<p align="center">
-	<a href="mailto:sh.alyyew2019@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Shageldi-byte"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+Full‑Stack & Mobile Developer · React / TypeScript · Node.js / Express / NestJS · React Native · Telegram Bots & Mini Apps
 
 
 
 
-## 🛠️ My Skills
+🎓 About Me
 
-### 👉 Programming languages
+🎓 Graduated from Oguz Han Engineering and Technology University, Faculty of Computer Systems and Technologies.
 
-<p align="center"> 
-  &emsp; 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp;
-</p>
+💻 Currently a Middle Fullstack Developer at Esta Construction Tatarstan.
 
-### 👉 Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
-  </a> 
-</p>
+⚙️ Passionate about using software as a solution for real‑world challenges.
 
- ### 👉 IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-</p>
+🌱 Continuously learning Computer Science and Software Engineering.
 
- ### 👉 Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>  
-</p>
+🧠 Curious mind, constantly exploring new technologies.
 
-<br/>
+🌍 Languages: English, Russian, Turkish, Turkmen.
+
+💡 Tech Stack
+Frontend
+Backend
+Mobile
+Telegram Platform
+Databases & Tools
+Development Tools
+
+🚀 Core Expertise
+
+⚡ React + TypeScript — building scalable, maintainable, and performant UI systems.
+
+🛡️ Node.js / Express / NestJS — creating secure REST APIs, authentication (JWT), caching, and real‑time updates.
+
+📱 React Native — developing offline‑first mobile applications with seamless sync on Wi‑Fi.
+
+🤖 Telegram Bots & Mini Apps — building automation, integrations, and user‑friendly experiences.
+
+🗃️ PostgreSQL — designing efficient relational data models and optimizing performance.
+
+🧩 Dev Experience (DX) — clean monorepos, Dockerized environments, CI/CD, linting, testing.
+
+🌟 Featured Projects
+✈️ Airport Companion
+
+A modern airport web app for daily flight info, universal ticket search, and smart notifications.
+Tech: React · TypeScript · NestJS · PostgreSQL · SMS Notifications
+Highlights: Offline usage, LAN data sync, modern UX.
+
+📦 Local‑First Inventory Mobile App
+
+Mobile app that works entirely offline and syncs with a local NestJS backend over the same Wi‑Fi network.
+Tech: React Native · SQLite · NestJS
+Highlights: Offline‑first pattern, two‑way synchronization, data integrity.
+
+🤖 Telegram Mini‑App Suite
+
+A collection of Telegram‑based business tools — e‑commerce, admin dashboards, analytics, and payments.
+Tech: Node.js · React · Telegram Mini Apps
+Highlights: Role‑based architecture, secure payments, and seamless user flows.
