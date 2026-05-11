@@ -9,7 +9,6 @@ Full‑Stack & Mobile Developer · React / TypeScript · Node.js / Express / Nes
 
 🎓 Graduated from Oguz Han Engineering and Technology University, Faculty of Computer Systems and Technologies.
 
-💻 Currently a Middle Fullstack Developer at Esta Construction Tatarstan.
 
 ⚙️ Passionate about using software as a solution for real‑world challenges.
 
