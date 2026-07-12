@@ -1,204 +1,236 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Halil%20Gayypov&fontSize=48&fontColor=00C2FF&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Solution%20Architect&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<h3 align="center">Full Stack Software Engineer • Mobile Developer • Solution Architect</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;React+%7C+TypeScript+%7C+NestJS+%7C+React+Native;Building+Enterprise-Grade+Platforms;Solution+Architect+%26+Tech+Lead" />
 
-<p align="center">
-Building scalable enterprise software with modern technologies.
-</p>
+<br/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;React+%7C+TypeScript+%7C+NestJS+%7C+React+Native;Building+Enterprise+Platforms;Always+Learning+New+Technologies" />
-</p>
+<a href="mailto:microsoft7779@gmail.com"><img src="https://img.shields.io/badge/Email-microsoft7779%40gmail.com-0F2027?style=for-the-badge&logo=gmail&logoColor=00C2FF&labelColor=0F2027"/></a>
+<img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-0F2027?style=for-the-badge&logo=linkedin&logoColor=00C2FF&labelColor=0F2027"/>
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-0F2027?style=for-the-badge&logo=googlechrome&logoColor=00C2FF&labelColor=0F2027"/>
 
----
+</div>
 
-# 🚀 About Me
+<br/>
 
-I'm a **Full Stack Software Engineer** passionate about building scalable enterprise software, business automation platforms, and modern mobile applications.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-I enjoy designing complete software architectures—from frontend interfaces to backend APIs, databases, DevOps infrastructure, and deployment pipelines.
+## 👋 About Me
 
-Currently I'm leading and developing enterprise-grade transportation, workforce management, and business automation systems while continuously improving my knowledge in software architecture and distributed systems.
+I'm a **Full Stack Software Engineer** and **Solution Architect** passionate about building scalable enterprise software, business automation platforms, and modern mobile applications.
 
-🎓 **Education**
+I design complete software architectures end-to-end — from frontend interfaces to backend APIs, databases, DevOps infrastructure, and deployment pipelines.
 
+Currently leading and developing enterprise-grade **transportation**, **workforce management**, and **business automation** systems, while continuously deepening my knowledge of software architecture and distributed systems.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Education**
 Oguz Han Engineering and Technology University
-
 Faculty of Computer Systems & Technologies
 
-🌍 **Languages**
+</td>
+<td width="50%" valign="top">
 
-- 🇬🇧 English
-- 🇷🇺 Russian
-- 🇹🇷 Turkish
-- 🇹🇲 Turkmen
+**🌍 Languages**
+🇬🇧 English &nbsp;•&nbsp; 🇷🇺 Russian
+🇹🇷 Turkish &nbsp;•&nbsp; 🇹🇲 Turkmen
 
----
+</td>
+</tr>
+</table>
 
-# 🔭 Current Focus
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-- 🚖 Enterprise Ride-Hailing Platform (YEDU)
-- 🏗 Workforce Management & Attendance Systems
-- 📱 Offline-First Mobile Applications
-- 🤖 Telegram Bots & Mini Apps
-- 🌐 Enterprise Web Applications
-- ⚙️ DevOps & Cloud Infrastructure
+## 🔭 Current Focus
 
----
+<table>
+<tr>
+<td>🚖&nbsp; Enterprise Ride-Hailing Platform (<b>YEDU</b>)</td>
+<td>🏗&nbsp; Workforce Management & Attendance Systems</td>
+</tr>
+<tr>
+<td>📱&nbsp; Offline-First Mobile Applications</td>
+<td>🤖&nbsp; Telegram Bots & Mini Apps</td>
+</tr>
+<tr>
+<td>🌐&nbsp; Enterprise Web Applications</td>
+<td>⚙️&nbsp; DevOps & Cloud Infrastructure</td>
+</tr>
+</table>
 
-# 💻 Tech Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## Frontend
+## 💻 Tech Stack
 
-React • TypeScript • Next.js • Vite • Redux • HTML • CSS • TailwindCSS • Material UI
+<div align="center">
 
-## Backend
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,vite,redux,html,css,tailwind,materialui" />
 
-Node.js • Express • NestJS • REST API • JWT • WebSocket • PostgreSQL • Redis
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,redis" />
+<br/>
+<code>REST API</code> &nbsp;•&nbsp; <code>JWT</code> &nbsp;•&nbsp; <code>WebSocket</code>
 
-## Mobile
+**Mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=react" /> React Native
 
-React Native
+**DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,ubuntu,linux,nginx,githubactions" />
+<br/>
+<code>PM2</code>
 
-## DevOps
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
 
-Docker • Ubuntu • Linux • Nginx • PM2 • GitHub Actions
+</div>
 
-## Tools
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-Git • GitHub • Postman • VS Code • Figma
+## 🚀 Core Expertise
 
----
+<div align="center">
 
-# 🚀 Core Expertise
+`Enterprise Software Development` `Full Stack Web Applications` `Mobile App Development`
+`REST API Design` `Authentication & Authorization (JWT)` `PostgreSQL Database Design`
+`Offline-First Architecture` `WebSocket Real-Time Systems` `Dockerized Environments`
+`CI/CD Pipelines` `Clean Architecture` `Performance Optimization`
+`Team Leadership` `Business Process Automation`
 
-- Enterprise Software Development
-- Full Stack Web Applications
-- Mobile Application Development
-- REST API Design
-- Authentication & Authorization (JWT)
-- PostgreSQL Database Design
-- Offline-First Architecture
-- WebSocket Real-Time Systems
-- Dockerized Environments
-- CI/CD Pipelines
-- Clean Architecture
-- Performance Optimization
-- Team Leadership
-- Business Process Automation
+</div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-## 🚖 YEDU Taxi Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🚖 YEDU Taxi Platform
 Enterprise ride-hailing platform inspired by Uber and Careem.
 
 **Highlights**
-
 - Customer & Driver Apps
 - Fleet Management
 - Admin Dashboard
 - Real-Time Tracking
-- Partner Management
-- Payments
-- Notifications
+- Partner Management, Payments & Notifications
 - Scalable Backend Architecture
 
-**Stack**
+**Stack:** `Go` `React` `TypeScript` `PostgreSQL` `Redis` `Docker`
 
-Go • React • TypeScript • PostgreSQL • Redis • Docker
+</td>
+<td width="50%" valign="top">
 
----
-
-## 🏗 ESTA Workforce Management Platform
-
+### 🏗 ESTA Workforce Management
 Enterprise attendance and workforce management solution.
 
-**Features**
-
-- QR Attendance
-- NFC Ready
+**Highlights**
+- QR Attendance, NFC Ready
 - Offline Synchronization
 - HR Dashboard
 - Workforce Analytics
 - Reporting System
 
-**Stack**
+**Stack:** `NestJS` `React` `PostgreSQL` `React Native`
 
-NestJS • React • PostgreSQL • React Native
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🌐 Arena Safety Platform
+Modern HSE (Health, Safety & Environment) management platform.
 
-## 🌐 Arena Safety Platform
-
-Modern HSE management platform.
-
+**Highlights**
 - Multi-tenant Architecture
-- Authentication
-- Dashboards
-- Analytics
+- Authentication & Role Management
+- Dashboards & Analytics
 - Reporting
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🏢 ORF Group Corporate Website
-
+### 🏢 ORF Group Corporate Website
 Modern multilingual corporate website.
 
-- React
-- TypeScript
+**Highlights**
+- React & TypeScript
 - Responsive Design
-- Modern UI/UX
-- Animations
+- Modern UI/UX & Animations
 
----
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-## 🤖 Telegram Mini App Ecosystem
+### 🤖 Telegram Mini App Ecosystem
+Business automation tools built on Telegram — Mini Apps, Bots, Admin Panels, Payments & Analytics.
 
-Business automation tools built on Telegram.
+</td>
+</tr>
+</table>
 
-- Mini Apps
-- Telegram Bots
-- Admin Panels
-- Payments
-- Analytics
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
----
+## 🏛 Architecture Experience
 
-# 🏛 Architecture Experience
+<div align="center">
 
-- Monorepo Architecture
-- Enterprise REST APIs
-- Docker Deployment
-- Nginx Reverse Proxy
-- Offline Synchronization
-- Real-Time Applications
-- PostgreSQL Optimization
-- Role-Based Access Control
-- Secure Authentication
-- CI/CD Workflows
+`Monorepo Architecture` `Enterprise REST APIs` `Docker Deployment` `Nginx Reverse Proxy`
+`Offline Synchronization` `Real-Time Applications` `PostgreSQL Optimization`
+`Role-Based Access Control` `Secure Authentication` `CI/CD Workflows`
 
----
+</div>
 
-# 📊 GitHub Statistics
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-> Add GitHub Readme Stats, Contribution Graph, Top Languages, and Snake Animation widgets here.
+## 📊 GitHub Statistics
 
----
+<!--
+  ⚠️ Aşakdaky widget-ler işlemek üçin "YOUR_GITHUB_USERNAME" ýerine
+  öz hakyky GitHub ulanyjy adyňyzy ýazmaly.
+-->
 
-# 🤝 Connect With Me
+<div align="center">
 
-- 💼 LinkedIn *(Coming Soon)*
-- 🌐 Portfolio *(Coming Soon)*
-- 📧 Email: **microsoft7779@gmail.com**
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0F2027&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0F2027&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" width="49%"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00C2FF&text_color=c9d1d9" width="49%"/>
 
-⭐ *"Building software that solves real-world problems."*
-"""
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0F2027&color=00C2FF&line=00C2FF&point=ffffff" width="100%"/>
 
-out = Path("/mnt/data/Halil_Gayypov_GitHub_Profile_README.md")
-pypandoc.convert_text(content, "md", format="md", outputfile=str(out), extra_args=["--standalone"])
-print(out)
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:microsoft7779@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⭐ *"Building software that solves real-world problems."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+
+</div>
