@@ -1,7 +1,4 @@
-from pathlib import Path
-import pypandoc
 
-content = r"""# Hi there 👋 I'm Halil Gayypov
 
 <h3 align="center">Full Stack Software Engineer • Mobile Developer • Solution Architect</h3>
 
